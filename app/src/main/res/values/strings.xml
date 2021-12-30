@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Forex Tranding</string>
+    <string name="about">The foreign exchange (also known as forex or FX) market is a global marketplace for exchanging national currencies.
+        "\n""\n"Because of the worldwide reach of trade, commerce, and finance, forex markets tend to be the largest and most liquid asset markets in the world.
+        "\n""\n"Currencies trade against each other as exchange rate pairs. For example, EUR/USD is a currency pair for trading the euro against the U.S. dollar.
+        "\n""\n"Forex markets exist as spot (cash) markets as well as derivatives markets, offering forwards, futures, options, and currency swaps.
+        "\n""\n"Market participants use forex to hedge against international currency and interest rate risk, to speculate on geopolitical events, and to diversify portfolios, among other reasons.</string>
+    <string name="one">Apply for $30 FREE account . To start the application click on \'Get Started\'.</string>
+    <string name="two">Follow the registration steps and ensure that you comply with all account opening requirements.</string>
+    <string name="three">Once your $30 Account is approved, it will be credited with $30 trading credit.</string>
+</resources>

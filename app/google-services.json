@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485753237999",
+    "project_id": "forex-tranding",
+    "storage_bucket": "forex-tranding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485753237999:android:31def40e77d7df4f21861a",
+        "android_client_info": {
+          "package_name": "com.amita.forextranding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485753237999-o8bn26s86dcbh8gkkv62v52t6609jajj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBa2vISoS9ALHEJ49MB6z_OqzSPrXx9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485753237999-o8bn26s86dcbh8gkkv62v52t6609jajj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
